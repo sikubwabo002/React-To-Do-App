@@ -1,0 +1,139 @@
+.profile-image{
+    background-color: aqua;
+    background-image: url(Rectangle1.jpg);
+    position            : absolute;
+    top                 : 0;
+    left                : 0;
+    z-index             : -1;
+    width               : 30%;
+    height              : 100%;
+    background-size     : cover;
+    background-position : top;
+
+}
+.texting{
+  background-color: white;
+  position: absolute;
+  width: 65%;
+  margin-left: 35%;
+  bottom: 80%;
+  height: 30%;
+  top: 5%;
+}
+.plan{
+  font-size: 300%;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.better{
+  color: blue;
+}
+.text-head{
+  font-size: 80%;
+  font-family: Montserrat;
+  
+}
+.drop-down{
+  background-color: whitesmoke;
+  width: 20%;
+  height: 62%;
+  border-bottom: solid 2px blue;
+  font-family: Montserrat;
+  border: white;
+  border-bottom: solid 2px blue;
+  
+}
+
+.input-text{
+  width: 60%;
+  height:55%;
+  background-color: whitesmoke;
+  border: none;
+  border-bottom: solid 2px blue;
+  margin-left: 2%;
+  font-family: Montserrat;
+  color: black;
+}
+
+.add-task{
+  margin-left: 2.4%;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border-radius: 2px;
+  width: 15%;
+  height: 62%;
+  
+}
+.task-added{
+  background-color: whitesmoke;
+  width: 58%;
+  position: absolute;
+  margin-left: 35%;
+  height: 50%;
+  top: 40%;
+}
+.task-button{
+  width: 15%;
+  background-color: whitesmoke;
+  border-radius: 2%;
+  border-bottom: solid 2px blue;
+  margin-left: 1%;
+}
+.task-all{
+  width: 15%;
+  background-color: blue;
+  border-radius: 2%;
+  border-bottom: solid 2px black;
+  margin-left: 1%;
+  color: white;
+}
+.App{
+  background-color: aqua;
+  width: 50%;
+  margin-left: 190%;
+}
+.task-form{
+  background-color: white;
+  height: 20%;
+}
+.edit{
+  background-color: white;
+  color: blue;
+  margin-left: 20%;
+  border-radius: 2px;
+  width: 10%;
+}
+.delete{
+  background-color: white;
+  color: red;
+  float: right;
+  border-radius: 2px;
+
+}
+.menu-task{
+  background-color: whitesmoke;
+  width: 15%;
+  border-radius: 2%;
+  margin-left: 1%;
+  border-bottom: solid 2px blue;
+  
+
+}
+.menu-all{
+  background-color: blue;
+  width: 15%;
+  border-radius: 2%;
+  margin-left: 1%;
+  border-bottom: solid 2px black;
+
+
+}
+.list-text{
+  background-color: white;
+  margin-left: 2%;
+  width: 87%;
+  border-bottom: solid 5px whitesmoke;
+
+  
+}
